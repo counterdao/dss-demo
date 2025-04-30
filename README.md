@@ -19,4 +19,4 @@ the caller if a sufficient balance remains in the `DSSToken` contract.
 ## Deployments
 
 ## Mainnet
-- [`DSSDemo`]
+- [`DSSDemo`](https://etherscan.io/address/0x386b98e757847f4bf6d83abf034b218f38b6ef27#code): `0x386b98e757847F4bF6D83AbF034b218f38B6eF27`
